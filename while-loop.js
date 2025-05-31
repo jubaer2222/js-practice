@@ -34,7 +34,7 @@ while(num <=10){
 }*/
 
         //    while loop use kore prothome 1 theke 10 porjonto print korbe . tarpor ei 1 theke 10 er addition dekhabe
-let num = 1;
+/*let num = 1;
 let total = 0;
 while(num <=10){
     console.log(num);
@@ -44,7 +44,7 @@ while(num <=10){
     
 }
   console.log("total",total);
-        
+  */      
 
 
 
